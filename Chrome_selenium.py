@@ -1,5 +1,7 @@
 #!/usr/local/bin/python
 #-*- coding: UTF-8 -*-
+#QQ:29295842  希望大家多多来交流
+#QQ:29295842  希望大家多多来交流
 import os
 from selenium import webdriver
 #from selenium.webdriver.common.by import By
