@@ -8,6 +8,8 @@ GIT开源地址   https://github.com/webxscan/golang_selenium
 </br>
 最近在看golang上边看到有几个 selenium 相关的库觉得不错最终选择了  /tebeka/selenium  库，用了一下非常顺手
 </br>
+/tebeka/selenium   库的帮助 https://godoc.org/github.com/tebeka/selenium 文件  我在源代码中做翻译 
+</br>
 之前的一个商业项目底层使用PYTHON 2X写的（Chrome_selenium.py--核心文件）
 </br>
 Chrome_selenium.py 是之前PY版本的
