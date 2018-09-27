@@ -12,6 +12,7 @@ import (
 	"github.com/tebeka/selenium"
 )
 
+//DDDDAAA
 func main() {
 	//fmt.Printf("===%v===\n", selenium.BackspaceKey)
 	Chrome.Chrome_close_ie() //结束浏览器
