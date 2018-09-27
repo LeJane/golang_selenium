@@ -14,5 +14,15 @@ GIT开源地址   https://github.com/webxscan/golang_selenium
 </br>
 Chrome_selenium.py 是之前PY版本的
 </br>
-GO版本对大部分函数进行了翻译
+我对GO版本对大部分函数进行了翻译
+</br>
+\src\Chrome  下面的文件
+</br>
+WebElement_interface.go
+</br>
+WebDriver_interface.go
+</br>
+Keys_data.go
+</br>
+Keys.go
 </br>
